@@ -2,6 +2,8 @@
 
 This is a ThreeJS demo that has been added to a WebXR scene.
 
+![Blob GIF](Blob.gif)
+
 [Original Codepen Demo by Faris K](https://codepen.io/farisk/pen/vrbzwL)
 
 [NoiseJS](https://github.com/josephg/noisejs)
