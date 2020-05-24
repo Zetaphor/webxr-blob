@@ -2,7 +2,7 @@
 
 This is a ThreeJS demo that has been added to a WebXR scene.
 
-[Original Codepen Demo](https://codepen.io/farisk/pen/vrbzwL)
+[Original Codepen Demo by Faris K](https://codepen.io/farisk/pen/vrbzwL)
 
 [NoiseJS](https://github.com/josephg/noisejs)
 
