@@ -17,7 +17,7 @@ jobs:
         uses: webaverse/xrpackage-build-action@v0.0.13
         with:
           src: '.'
-          dst: 'a.wbn'
+          dst: 'webxr-blob.wbn'
       - name: Echo build result
         run: echo 'The output file is ${{ steps.build.outputs.dst }}; the release name is ${{ steps.build.outputs.name }}'
       - name: Create Release
