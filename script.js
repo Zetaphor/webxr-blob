@@ -84,10 +84,8 @@ function render() {
 
   // change '0.003' for more aggressive animation
   var time = performance.now() * 0.003;
-  //console.log(time)
 
   //go through vertices here and reposition them
-
   // change 'k' value for more spikes
   var k = 3;
   for (var i = 0; i < sphere.geometry.vertices.length; i++) {
